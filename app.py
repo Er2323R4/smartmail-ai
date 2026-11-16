@@ -4,7 +4,7 @@ from llm import generate
 from checker import check_text
 
 st.set_page_config(page_title="SmartMail AI", page_icon="✉️", layout="centered")
-st.title("✉️ SmartMail AI")
+st.title("SmartMail AI")
 st.caption("Turn quick notes into professional emails in seconds.")
 
 with st.sidebar:
